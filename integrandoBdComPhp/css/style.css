@@ -1,0 +1,16 @@
+div.container{
+    margin-top:40px;
+    width: 500px;
+}
+
+#botao{
+    text-align: right;
+}
+
+form{
+    margin-top: 20px;
+}
+
+#botao1{
+    text-align: center;
+}
